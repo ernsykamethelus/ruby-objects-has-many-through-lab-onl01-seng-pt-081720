@@ -26,3 +26,4 @@ end
     Appointment.new(patient, date, self)
   end
 end
+end
