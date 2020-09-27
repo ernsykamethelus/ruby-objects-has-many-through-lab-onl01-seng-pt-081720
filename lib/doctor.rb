@@ -25,3 +25,4 @@ end
   def new_appointment(patient, , self, date)
     Appointment.new(patient, self, date)
   end
+end
