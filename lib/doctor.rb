@@ -25,6 +25,6 @@ class Doctor
   def patients
     appointments.map do |appointment|
       appointment.patients
-    endointment.patients
+    end
   end
 end
